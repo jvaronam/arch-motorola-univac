@@ -1,4 +1,4 @@
-#Computer Architecture Assignment
+# Computer Architecture Assignment
 
 Comparison of two computer architectures:
 Motorola 68000 vs Univac 1100/80
